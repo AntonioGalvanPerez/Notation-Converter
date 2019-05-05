@@ -57,7 +57,7 @@ int main(int argc, const char * argv[]) {
             break;
             
         default:
-            std::cout << "Incorr**ect input.\n";
+            std::cout << "Incorrect input.\n";
             break;
     }
     
